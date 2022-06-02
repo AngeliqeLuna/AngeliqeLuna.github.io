@@ -9,19 +9,19 @@
 <h1 align="center">AngeliqeLuna Github Io</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{AngeliqeLuna}}/angeliqeluna-github-io?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{AngeliqeLuna}}/angeliqeluna-github-io?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{AngeliqeLuna}}/angeliqeluna-github-io?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{AngeliqeLuna}}/angeliqeluna-github-io?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{AngeliqeLuna}}/angeliqeluna-github-io?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{AngeliqeLuna}}/angeliqeluna-github-io?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{AngeliqeLuna}}/angeliqeluna-github-io?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -48,11 +48,22 @@
 
 This is the repository of my landing page, click <a href="https://angeliqeluna.github.io/"> here </a> to go there.
 
+## :sparkles: Features ##
+
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
+
+
+## :white_check_mark: Requirements ##
+
+You only need internet conexion and a browser
+
 ## :checkered_flag: Starting ##
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{AngeliqeLuna}}/angeliqeluna-github-io
+$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/angeliqeluna-github-io
 
 # Access
 $ cd angeliqeluna-github-io
@@ -71,7 +82,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{AngeliqeLuna}}" target="_blank">{{Angelica}}</a>
+Made with :heart: by <a href="https://github.com/AngeliqeLuna" target="_blank">AngeliqeLuna</a>
 
 &#xa0;
 
