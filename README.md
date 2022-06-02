@@ -8,21 +8,6 @@
 
 <h1 align="center">AngeliqeLuna Github Io</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/AngeliqeLuna/angeliqeluna-github-io?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/AngeliqeLuna/angeliqeluna-github-io?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AngeliqeLuna/angeliqeluna-github-io?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/AngeliqeLuna/angeliqeluna-github-io?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/AngeliqeLuna/angeliqeluna-github-io?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/AngeliqeLuna/angeliqeluna-github-io?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/AngeliqeLuna/angeliqeluna-github-io?color=56BEB8" /> -->
-</p>
 
 <!-- Status -->
 
@@ -46,7 +31,8 @@
 
 ## :dart: About ##
 
-Describe your project
+<h4>Please, click <a href="https://angeliqeluna.github.io/Eyes-Exercise">HERE
+</a></h4> to go to my Home Page
 
 ## :sparkles: Features ##
 
