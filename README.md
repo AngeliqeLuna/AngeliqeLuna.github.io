@@ -58,11 +58,9 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+HTML
+CSS
+JavaScript
 
 ## :white_check_mark: Requirements ##
 
@@ -91,7 +89,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/AngeliqeLuna" target="_blank">Angelica Luna}</a>
+Made with :heart: by <a href="https://github.com/AngeliqeLuna" target="_blank">Angelica Luna</a>
 
 &#xa0;
 
