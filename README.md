@@ -31,7 +31,7 @@
 
 ## :dart: About ##
 
-<h4>Welcome to my Repository, you can go to my Home Page with this <a href="https://angeliqeluna.github.io/Eyes-Exercise">LINK
+<h4>Welcome to my Repository, you can go to my Home Page with this <a href="https://angeliqeluna.github.io/">LINK
 </a></h4>
 
 ## :sparkles: Features ##
